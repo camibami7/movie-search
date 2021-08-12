@@ -21,7 +21,7 @@ html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 350px;
+  height: 500px;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -110,12 +110,12 @@ input:focus {
   font-size: .8em;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
-  padding-top: 10px;
+  padding-top: 15px;
   letter-spacing: 3px;
   background-color: #800e10;
   color: #F5F5F5;
   margin-bottom: -15px;
-  padding-bottom: 10px;
+  padding-bottom: 15px;
   text-align: center;
   width: 100%;
 }
