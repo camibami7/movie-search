@@ -63,7 +63,7 @@ const GetRequest = () => {
             />
           </div>
         ) : movies ? (
-          <div class="card-body">{renderMovies()}</div>
+          <div class="card-body"><br /><br /><br />{renderMovies()}</div>
         ) : (
           error && (
             <div class="error-message">
