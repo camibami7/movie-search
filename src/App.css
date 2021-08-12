@@ -57,9 +57,7 @@ h1 {
   border: 0;
   background-color: #F5F5F5;
   text-decoration: none;
-  /* border-top: 2px solid #800e10; */
   border-right: 2px solid #800e10;
-  /* border-bottom: 2px solid #800e10; */
   padding-bottom:4px;
   border-radius: 20px;
   padding: 4px;
@@ -101,9 +99,6 @@ input:focus {
 .error-message {
   color: #800e10;
   font-size: x-large;
-}
-.content-wrap {
-  padding-bottom: 2.5rem;    /* Footer height */
 }
 
 .footer {
